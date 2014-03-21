@@ -76,18 +76,32 @@
       <!-- Main hero unit for a primary marketing message or call to action -->
       <div class="hero-unit">
         <h1>Contactanos</h1>
-        <p>This is a template for a simple marketing or informational website. It includes a large callout called the hero unit and three supporting pieces of content. Use it as a starting point to create something more unique.</p>
+        <p>Toma tu tiempo para contactarnos, asi podemos ayudarte con tus consultas.</p>
         </div>
 
        <hr>
 
+       <address>
+        <strong>Cinermark, Inc.</strong><br>
+        795 Folsom Ave, Suite 600<br>
+        San Francisco, CA 94107<br>
+        <abbr title="Phone">P:</abbr> (123) 456-7890
+      </address>
+
+      <hr>
+
+      <address>
+        <strong>Cinermark</strong><br>
+        <a href="mailto:cinermark@example.com">cinermark@example.com</a>
+      </address>
+
       <!-- contact form -->
       <form method="POST" action="mail.php" id="formulario_contacto">
-        <p><label class="label">Nombre: </label><input type="text" placeholder="Nombre" required name="nombre"></input></p>
-        <p><label class="label">Apellidos: </label><input type="text" required name="apellidos"></input></p>
-        <p><label class="label">Correo electronico: </label><input type="text" placeholder="user@example.com" required name="e_mail"></input></p>
-        <p><label class="label">Motivo: </label><input type="text" name="motivo" required name="motivo"></input></p>
-        <p><label class="label">Mensaje: </label><textarea type="textarea" rows="5" cols="50" required name="mensaje"></textarea></p>
+        <p><input type="text" placeholder="Nombre" required name="nombre"></input></p>
+        <p><input type="text" required name="apellidos" placeholder="Apellidos"></input></p>
+        <p><input type="text" placeholder="user@example.com" required name="e_mail"></input></p>
+        <p><input type="text" name="motivo" required name="motivo" placeholder="Motivo"></input></p>
+        <p><textarea type="textarea" rows="5" cols="50" required name="mensaje"></textarea></p>
         <p><button type="submit" class="btn">ENVIAR</button></p>
       </form>
 

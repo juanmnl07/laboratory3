@@ -74,20 +74,20 @@
 
       <!-- Main hero unit for a primary marketing message or call to action -->
       <div class="hero-unit">
-        <h1>Mision y Vision</h1>
-        <p>This is a template for a simple marketing or informational website. It includes a large callout called the hero unit and three supporting pieces of content. Use it as a starting point to create something more unique.</p>
+        <h1>Misión y Visión</h1>
+        <p>Toma tu tiempo y lee hacerca de nuestras metas y objetivos.</p>
       </div>
 
       <hr>
 
       <div id="mision">
-        <h3>Mision</h3>
+        <h3>Misión</h3>
          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur laoreet faucibus enim, vel placerat purus tincidunt non. Quisque vehicula in odio vitae lacinia. Praesent consequat purus ut dolor fringilla, a feugiat nibh cursus. Duis tristique ligula non auctor congue. Donec molestie erat a ipsum condimentum sollicitudin. Nulla facilisi. Morbi at auctor turpis, vitae mattis nulla. Suspendisse sed vestibulum nisi. Cras malesuada augue ac ligula venenatis, quis luctus mauris consequat. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Sed vitae mollis ipsum. Cras ac blandit nulla, ac semper nibh. Nullam feugiat tempor quam vitae consequat. Etiam quis enim et urna mollis venenatis. Curabitur lobortis sapien et ipsum pretium, eu pulvinar ipsum condimentum.</p>
          <p>Maecenas eu scelerisque tellus. Aliquam dictum ligula quis lacus tristique elementum. Duis non dignissim dui, quis fringilla nibh. Sed euismod eros turpis, ac volutpat justo gravida ut. In pharetra dictum porta. Fusce vitae euismod augue. Nunc ac nisi ornare, consectetur risus quis, pellentesque est. Duis et justo placerat, tincidunt justo sit amet, condimentum neque. Praesent dignissim congue diam, vel facilisis odio commodo quis. Cras eget tincidunt libero, at aliquet eros. Sed pellentesque nec nisl a facilisis. Quisque tincidunt, nunc in molestie tempus, libero lacus suscipit est, ac rhoncus sem sem id diam.</p>
       </div>
       <br />
       <div id="vision">
-        <h3>Vision</h3>
+        <h3>Visión</h3>
          <p>Curabitur semper tellus quam, non egestas mauris dapibus in. Vivamus sed fringilla tellus, eu viverra felis. Aliquam sed consequat sapien, nec accumsan augue. Ut dictum nulla ut ligula pretium ornare. Praesent tincidunt lacinia lacus, sit amet volutpat dolor ullamcorper in. Maecenas nisl risus, posuere sodales risus eu, gravida rhoncus mauris. Donec est massa, venenatis ac magna id, congue bibendum tellus. Aliquam nunc nisi, malesuada ut blandit at, vehicula in orci. Vestibulum pharetra et ligula vitae ultricies. Vestibulum quis est pretium, elementum felis nec, tempor enim. Duis justo ante, tincidunt ac suscipit eu, sagittis egestas odio. Nunc nec metus accumsan, posuere justo convallis, malesuada ipsum. Pellentesque euismod gravida urna, dignissim eleifend urna blandit at. Donec aliquet rutrum mauris, et congue erat bibendum bibendum.</p>
          <p>Suspendisse quis scelerisque leo. Donec aliquet condimentum purus, quis posuere diam molestie sed. Phasellus tincidunt diam eu libero imperdiet faucibus. In imperdiet tortor ac massa congue euismod. Aenean nisi libero, viverra eget lacus ac, sodales tristique lacus. Sed blandit placerat est, ac euismod velit porta eu. Mauris in dui vulputate, egestas arcu eget, dapibus ipsum. </p>
       </div>

@@ -2,7 +2,7 @@
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    <title>Bootstrap, from Twitter</title>
+    <title>bootstrap, from Twitter</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="">
     <meta name="author" content="">
@@ -107,12 +107,12 @@
       <div class="hero-unit">
         <h1>Reserva ya!</h1>
         <p>Ahora ya puedes reservar sin la necesidad de llamar o hacer largas filas.</p>
-        <p><a href="donde-estamos.php" class="btn btn-primary btn-large">Reservar &raquo;</a></p>
+        <p><a href="contactenos.php" class="btn btn-primary btn-large">Reservar &raquo;</a></p>
       </div>
 
 
       <!-- Nuestros proximos estrenos -->
-      <h2>Proximos estrenos</h2>
+      <h2 class="proximos-estrenos-title">Proximos estrenos</h2>
       <!-- Example row of columns -->
       <div class="row">
         <div class="span4">

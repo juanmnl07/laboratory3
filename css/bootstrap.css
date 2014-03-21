@@ -5657,6 +5657,8 @@ a.thumbnail:focus {
   -webkit-border-radius: 3px;
      -moz-border-radius: 3px;
           border-radius: 3px;
+
+  margin-right: 10px;
 }
 
 .badge {
@@ -5671,6 +5673,8 @@ a.thumbnail:focus {
 .badge:empty {
   display: none;
 }
+
+.proximos-estrenos-title{font-family: sans-serif; font-size: 37px; margin: 50px 0 50px 0;}
 
 a.label:hover,
 a.label:focus,
@@ -6197,7 +6201,11 @@ a.badge:focus {
 .row h2 a {color: #824141;}
 .row h2 a:hover {color: #652424;}
 .row .btn, #formulario_contacto .btn {color: #652424;}
-#formulario_contacto input, #formulario_contacto textarea {margin-left: 20px; margin-bottom: 5px;}
+#formulario_contacto input, #formulario_contacto textarea { margin-bottom: 5px;}
 #formulario_contacto label {font-size: 14px; padding: 5px 8px;}
 .row .estreno {margin-top: 105px;}
 .navbar-inverse .nav .active > a {color: #A76666 !important;}
+
+#formulario_contacto input {
+    height: 35px;
+}

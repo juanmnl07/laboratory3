@@ -70,17 +70,17 @@
 
       <!-- movie image -->
       <div class="movie-image">
-        <img src="../movies/300-rise-of-an-empire.jpg"/>
+        <img src="../movies/Men_in_black_08.jpg"/>
       </div>
 
       <div class="well well-large descripcion-pelicula">
         <ul>
-          <li><label class="label">Titulo:</label>Thor: El mundo oscuro</li>
+          <li><label class="label">Titulo:</label>Men in Black</li>
           <li><label class="label">Pais:</label><span>USA</span></li>
-          <li><label class="label">Productora:</label><span>Paramount Pictures, Marvel Studios</span></li>
-          <li><label class="label">Director:</label><span>Alan Taylor</span></li>
+          <li><label class="label">Productora:</label><span>Columbia Pictures</span></li>
+          <li><label class="label">Director:</label><span>Barry Sonnenfeld</span></li>
           <li><label class="label">Calificacion:</label><span>No recomendada para menores de 7 años</span></li>
-          <li><label class="label">Sinapsis:</label><p>"Thor, El Mundo Oscuro" de Marvel es la continuación en la gran pantalla de las aventuras de Thor, el Poderoso Vengador, en su lucha por salvar la Tierra y los Nueve Reinos de un oscuro enemigo que es anterior al mismísimo universo. Después de "Thor" y "Los Vengadores”, Thor lucha por restablecer el orden en todo el cosmos... pero una antigua raza liderada por el vengativo Malekith regresa para volver a sumir al universo en la oscuridad. Thor se enfrenta a un enemigo al que ni siquiera Odín y Asgard pueden hacer frente y deberá embarcarse en su viaje más peligroso y personal. En este viaje se reunirá con Jane Foster y deberá sacrificarlo todo para salvar el mundo.</p></li>
+          <li><label class="label">Sinopsis:</label><p>"Durante muchos años los extraterrestres han vivido en la Tierra, mezclados con los seres humanos, sin que nadie lo supiese. Los Hombres de Negro son agentes especiales que forman parte de una unidad altamente secreta del gobierno; su misión consiste en controlar a los alienígenas. Dos de estos agentes (uno veterano y otro recién incorporado), cuya misión consiste en vigilar a los alienígenas que viven en Nueva York, descubren a un terrorista galáctico que pretende acabar con la Humanidad.</p></li>
         </li>  
       </div>
 

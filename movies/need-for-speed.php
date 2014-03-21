@@ -70,17 +70,19 @@
 
       <!-- movie image -->
       <div class="movie-image">
-        <img src="../movies/300-rise-of-an-empire.jpg"/>
+        <img src="../movies/Movies_Need_for_Speed_movie_poster_054812_.jpg"/>
       </div>
 
       <div class="well well-large descripcion-pelicula">
         <ul>
-          <li><label class="label">Titulo:</label>Thor: El mundo oscuro</li>
+          <li><label class="label">Titulo:</label>Need for speed</li>
           <li><label class="label">Pais:</label><span>USA</span></li>
-          <li><label class="label">Productora:</label><span>Paramount Pictures, Marvel Studios</span></li>
+          <li><label class="label">Productora:</label><span>Paramount Pictures</span></li>
           <li><label class="label">Director:</label><span>Alan Taylor</span></li>
           <li><label class="label">Calificacion:</label><span>No recomendada para menores de 7 años</span></li>
-          <li><label class="label">Sinapsis:</label><p>"Thor, El Mundo Oscuro" de Marvel es la continuación en la gran pantalla de las aventuras de Thor, el Poderoso Vengador, en su lucha por salvar la Tierra y los Nueve Reinos de un oscuro enemigo que es anterior al mismísimo universo. Después de "Thor" y "Los Vengadores”, Thor lucha por restablecer el orden en todo el cosmos... pero una antigua raza liderada por el vengativo Malekith regresa para volver a sumir al universo en la oscuridad. Thor se enfrenta a un enemigo al que ni siquiera Odín y Asgard pueden hacer frente y deberá embarcarse en su viaje más peligroso y personal. En este viaje se reunirá con Jane Foster y deberá sacrificarlo todo para salvar el mundo.</p></li>
+          <li><label class="label">Sinopsis:</label><p>Tobey Marshall is a former race car driver who owns an upstate New York garage, where he and his friends tune performance cars. Struggling to make ends meet, he and his crew participate in street races after hours. One day, Dino Brewster, Tobey's former rival, arrives at his garage with a Shelby Mustang that Carroll Shelby had worked on before his death. Dino wants Tobey and his crew to complete the project in exchange for 25% of the car's estimated selling price of $2 million. Despite objections from the crew, Tobey agrees to the deal.
+
+Upon completion of the project, the Shelby Mustang is put up for auction at a party. Tobey and Dino meet Julia, an Englishwoman who agrees to pay $3 million if the car can go over 230 mph, as Tobey claims. The next morning at a nearby track, Tobey gets the Mustang to reach 234 mph, prompting Julia to purchase it for $2.7 million. Later, Dino challenges Tobey and his partner Little Pete to race his father's three illegally imported Koenigsegg Ageras from his mansion to a bridge over the interstate. If Tobey wins, he gets Dino's 75% of the Mustang deal; if he loses, he gives up his 25%. During the race, Dino tags Little Pete's car, sending it flipping down a ravine before bursting into flames. Dino disappears from the scene, and Tobey is sent to jail for involuntary manslaughter, as there is no evidence pointing to Dino's involvement.</p></li>
         </li>  
       </div>
 

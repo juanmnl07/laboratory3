@@ -70,18 +70,18 @@
 
       <!-- movie image -->
       <div class="movie-image">
-        <img src="../movies/300-rise-of-an-empire.jpg"/>
+        <img src="../movies/enbuscadelafelicidad.jpg"/>
       </div>
 
       <div class="well well-large descripcion-pelicula">
         <ul>
           <li><label class="label">Titulo:</label>Thor: El mundo oscuro</li>
           <li><label class="label">Pais:</label><span>USA</span></li>
-          <li><label class="label">Productora:</label><span>Paramount Pictures, Marvel Studios</span></li>
-          <li><label class="label">Director:</label><span>Alan Taylor</span></li>
-          <li><label class="label">Calificacion:</label><span>No recomendada para menores de 7 años</span></li>
-          <li><label class="label">Sinapsis:</label><p>"Thor, El Mundo Oscuro" de Marvel es la continuación en la gran pantalla de las aventuras de Thor, el Poderoso Vengador, en su lucha por salvar la Tierra y los Nueve Reinos de un oscuro enemigo que es anterior al mismísimo universo. Después de "Thor" y "Los Vengadores”, Thor lucha por restablecer el orden en todo el cosmos... pero una antigua raza liderada por el vengativo Malekith regresa para volver a sumir al universo en la oscuridad. Thor se enfrenta a un enemigo al que ni siquiera Odín y Asgard pueden hacer frente y deberá embarcarse en su viaje más peligroso y personal. En este viaje se reunirá con Jane Foster y deberá sacrificarlo todo para salvar el mundo.</p></li>
-        </li>  
+          <li><label class="label">Productora:</label><span>Columbia Pictures</span></li>
+          <li><label class="label">Director:</label><span>Gabriele Muccino</span></li>
+          <li><label class="label">Calificacion:</label><span>Todo publico</span></li>
+          <li><label class="label">Sinopsis:</label><p>"Chris Gardner (Will Smith) es un vendedor brillante y con talento, pero su empleo no le permite cubrir sus necesidades más básicas. Tanto es así que acaban echándolo, junto a su hijo de cinco años (Jaden Smith), de su piso de San Francisco, y ambos no tienen ningún lugar al que ir. Cuando Gardner consigue hacer unas prácticas en una prestigiosa correduría de bolsa, los dos protagonistas tendrán que afrontar muchas adversidades parar hacer realidad su sueño de una vida mejor.</p></li>
+        </ul>  
       </div>
 
       <hr>

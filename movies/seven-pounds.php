@@ -70,17 +70,19 @@
 
       <!-- movie image -->
       <div class="movie-image">
-        <img src="../movies/300-rise-of-an-empire.jpg"/>
+        <img src="../movies/seven2_main.jpg"/>
       </div>
 
       <div class="well well-large descripcion-pelicula">
         <ul>
-          <li><label class="label">Titulo:</label>Thor: El mundo oscuro</li>
+          <li><label class="label">Titulo:</label>SEVEN POUNDS</li>
           <li><label class="label">Pais:</label><span>USA</span></li>
-          <li><label class="label">Productora:</label><span>Paramount Pictures, Marvel Studios</span></li>
+          <li><label class="label">Productora:</label><span>Paramount Pictures</span></li>
           <li><label class="label">Director:</label><span>Alan Taylor</span></li>
           <li><label class="label">Calificacion:</label><span>No recomendada para menores de 7 años</span></li>
-          <li><label class="label">Sinapsis:</label><p>"Thor, El Mundo Oscuro" de Marvel es la continuación en la gran pantalla de las aventuras de Thor, el Poderoso Vengador, en su lucha por salvar la Tierra y los Nueve Reinos de un oscuro enemigo que es anterior al mismísimo universo. Después de "Thor" y "Los Vengadores”, Thor lucha por restablecer el orden en todo el cosmos... pero una antigua raza liderada por el vengativo Malekith regresa para volver a sumir al universo en la oscuridad. Thor se enfrenta a un enemigo al que ni siquiera Odín y Asgard pueden hacer frente y deberá embarcarse en su viaje más peligroso y personal. En este viaje se reunirá con Jane Foster y deberá sacrificarlo todo para salvar el mundo.</p></li>
+          <li><label class="label">Sinopsis:</label><p>Two years previously, Tim Thomas (Will Smith), while carelessly sending a text message while driving, veers across the center line into oncoming traffic and causes a multi-car crash in which seven people die: six strangers and his fiancee, Sarah Jenson (Robinne Lee).
+
+In a conscious bid for atonement, unable to live with what he did, Tim sets out to save the lives of seven good people by donating his own vital organs, a process that will be completed after his planned suicide. A year after the crash, having quit his job as an aeronautical engineer, Tim donates a lung lobe to his brother Ben (Michael Ealy), an IRS field agent. He steals his brother's federal IRS identification badge and credentials, puts his picture over Ben's, identifies himself by his brother's name, and uses Ben's privileges to check out the financial backgrounds of further potential candidates for his donations. In each case he "interviews" them first to determine if they are "good" people.</p></li>
         </li>  
       </div>
 

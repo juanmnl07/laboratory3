@@ -70,18 +70,18 @@
 
       <!-- movie image -->
       <div class="movie-image">
-        <img src="../movies/300-rise-of-an-empire.jpg"/>
+        <img src="../movies/Soy_leyenda.jpg"/>
       </div>
 
       <div class="well well-large descripcion-pelicula">
         <ul>
-          <li><label class="label">Titulo:</label>Thor: El mundo oscuro</li>
+          <li><label class="label">Titulo:</label>Soy Legenda</li>
           <li><label class="label">Pais:</label><span>USA</span></li>
-          <li><label class="label">Productora:</label><span>Paramount Pictures, Marvel Studios</span></li>
+          <li><label class="label">Productora:</label><span>Warner Brothers</span></li>
           <li><label class="label">Director:</label><span>Alan Taylor</span></li>
           <li><label class="label">Calificacion:</label><span>No recomendada para menores de 7 años</span></li>
-          <li><label class="label">Sinapsis:</label><p>"Thor, El Mundo Oscuro" de Marvel es la continuación en la gran pantalla de las aventuras de Thor, el Poderoso Vengador, en su lucha por salvar la Tierra y los Nueve Reinos de un oscuro enemigo que es anterior al mismísimo universo. Después de "Thor" y "Los Vengadores”, Thor lucha por restablecer el orden en todo el cosmos... pero una antigua raza liderada por el vengativo Malekith regresa para volver a sumir al universo en la oscuridad. Thor se enfrenta a un enemigo al que ni siquiera Odín y Asgard pueden hacer frente y deberá embarcarse en su viaje más peligroso y personal. En este viaje se reunirá con Jane Foster y deberá sacrificarlo todo para salvar el mundo.</p></li>
-        </li>  
+          <li><label class="label">Sinopsis:</label><p>"película de terror de ciencia ficción posapocalíptica, dirigida por Francis Lawrence y protagonizada por Will Smith. Es la tercera adaptación cinematográfica de la novela homónima de 1954 de Richard Matheson, siguiendo a The Last Man on Earth en 1964 y de The Omega Man en 1971.1 Smith interpreta al virólogo Robert Neville, que es inmune a un virus hecho por el hombre, creado originalmente para curar el cáncer. Él trabaja para crear un antídoto mientras se defiende de los mutantes creados por el virus.</p></li>
+        </ul>  
       </div>
 
       <hr>

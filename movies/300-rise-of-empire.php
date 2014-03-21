@@ -75,12 +75,12 @@
 
       <div class="well well-large descripcion-pelicula">
         <ul>
-          <li><label class="label">Titulo:</label>Thor: El mundo oscuro</li>
+          <li><label class="label">Titulo:</label>300 Nacimiento de un Imperio</li>
           <li><label class="label">Pais:</label><span>USA</span></li>
-          <li><label class="label">Productora:</label><span>Paramount Pictures, Marvel Studios</span></li>
-          <li><label class="label">Director:</label><span>Alan Taylor</span></li>
-          <li><label class="label">Calificacion:</label><span>No recomendada para menores de 7 años</span></li>
-          <li><label class="label">Sinapsis:</label><p>"Thor, El Mundo Oscuro" de Marvel es la continuación en la gran pantalla de las aventuras de Thor, el Poderoso Vengador, en su lucha por salvar la Tierra y los Nueve Reinos de un oscuro enemigo que es anterior al mismísimo universo. Después de "Thor" y "Los Vengadores”, Thor lucha por restablecer el orden en todo el cosmos... pero una antigua raza liderada por el vengativo Malekith regresa para volver a sumir al universo en la oscuridad. Thor se enfrenta a un enemigo al que ni siquiera Odín y Asgard pueden hacer frente y deberá embarcarse en su viaje más peligroso y personal. En este viaje se reunirá con Jane Foster y deberá sacrificarlo todo para salvar el mundo.</p></li>
+          <li><label class="label">Productora:</label><span>Paramount Pictures</span></li>
+          <li><label class="label">Director:</label><span>Mark Canton</span></li>
+          <li><label class="label">Calificacion:</label><span>No recomendada para menores de 10 años</span></li>
+          <li><label class="label">Sinopsis:</label><p>La película se centra en relatar los hechos que ocurren de manera simultánea a los que se desarrollan en 300 (película), centrándose en el bando ateniense, durante su primera parte, luego parasá a contar los hechos que ocurren tras la derrota de Leónidas en las Termópilas. Mediante un flashback de la reina Gorgo conocemos los hechos que desencadenaron la Segunda Guerra Médica en el universo creado por Frank Miller, nos narra la Batalla de Maratón, los problemas de Temístocles a la hora de reunir a las distintas polis griegas, los orígenes de la divinidad de Jerjes, presenta a Artemisia (antagonista de Temístocles) y nos cuenta la Batalla de Artemisio y la Batalla de Salamina. Con esta última batalla y la victoria de los griegos termina la película.</p></li>
         </li>  
       </div>
 

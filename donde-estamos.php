@@ -74,8 +74,8 @@
 
       <!-- Main hero unit for a primary marketing message or call to action -->
       <div class="hero-unit">
-        <h1>Donde estamos ubicados</h1>
-        <p>This is a template for a simple marketing or informational website. It includes a large callout called the hero unit and three supporting pieces of content. Use it as a starting point to create something more unique.</p>
+        <h1 style="margin-bottom: 25px;">Donde estamos ubicados</h1>
+        <p><iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=Silicon+Valley,+CA,+United+States&amp;aq=0&amp;oq=silicon+&amp;sll=37.0625,-95.677068&amp;sspn=63.384331,129.550781&amp;ie=UTF8&amp;hq=&amp;hnear=Silicon+Valley&amp;t=m&amp;z=11&amp;iwloc=A&amp;ll=37.362517,-122.03476&amp;output=embed"></iframe><br /><small><a href="https://maps.google.com/maps?f=q&amp;source=embed&amp;hl=en&amp;geocode=&amp;q=Silicon+Valley,+CA,+United+States&amp;aq=0&amp;oq=silicon+&amp;sll=37.0625,-95.677068&amp;sspn=63.384331,129.550781&amp;ie=UTF8&amp;hq=&amp;hnear=Silicon+Valley&amp;t=m&amp;z=11&amp;iwloc=A&amp;ll=37.362517,-122.03476" style="color:#0000FF;text-align:left">View Larger Map</a></small></p>
         <!-- MAP -->
 
       </div>
